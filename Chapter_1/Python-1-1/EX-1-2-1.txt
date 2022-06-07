@@ -1,0 +1,6 @@
+                                   Ezercise 1.2.1
+											  
+  t=a -> assigning a to the variable t
+  b=t -> assigning the variable t to b
+  a=b -> assigning the variable b to a
+     Swapping
